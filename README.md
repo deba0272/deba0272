@@ -1,6 +1,6 @@
 <!-- Add Header -->
 <p align="center">
-  <img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F349662358545784193%2F&psig=AOvVaw29YmkOFZTgb6Zs1tKiB6vv&ust=1709993218511000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiO4afr5IQDFQAAAAAdAAAAABAE"/giphy.gif" width="300">
+  <img src="https://dribbble.com/shots/1712148-Coder-gif/attachments/8944905?mode=media"/giphy.gif" width="300">
 </p>
 <h1 align="center">Hi there, I'm Debajyoti Roy! 👋</h1>
 
