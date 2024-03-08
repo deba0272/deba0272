@@ -1,7 +1,3 @@
-<!-- Add Header -->
-<p align="center">
-  <img src="https://dribbble.com/shots/1712148-Coder-gif/attachments/8944905?mode=media"/giphy.gif" width="300">
-</p>
 <h1 align="center">Hi there, I'm Debajyoti Roy! 👋</h1>
 
 <!-- Add Introduction -->
