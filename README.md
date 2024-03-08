@@ -36,8 +36,8 @@ I'm a Developer and Researcher, passionate about exploring the intersections of 
 ### [Url_Shortener-Stateful](https://github.com/deba0272/Url_Shortener-Stateful)
 - Description:  A stateful URL shortener application.
 - Language Used: [Express.js,Node.js,ejs,MongodB]
-- Stars: ![Stars](https://img.shields.io/github/stars/[deba0272]/[[Url_Shortener-Stateful](https://github.com/deba0272/Url_Shortener-Stateful)]?style=flat-square)
-- Forks: ![Forks](https://img.shields.io/github/forks/[deba0272]/[Url_Shortener-Stateful]?style=flat-square)
+- Stars: ![Stars](https://github.com/deba0272/Url_Shortener-Stateful/forks)
+- Forks: ![Forks](https://github.com/deba0272/Url_Shortener-Stateful/stargazers)
 
 ### [Winter-Internship-at-IIT-Jammu](https://github.com/deba0272/Winter-Internship-at-IIT-Jammu)
 - Description: This repository contains the software implementation and simulation files for a wideband metasurface-based reflective polarization converter designed for linear-to-linear and linear-to-circular polarization conversion. The design and analysis were conducted using CST Microwave Studio for electromagnetic simulation and MATLAB for post-processing and analysis.
