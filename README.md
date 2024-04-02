@@ -7,7 +7,7 @@
 
 <!-- Add Interests -->
 <p align="center">
-  🧠 Currently exploring: Backend, Python, Machine Learning
+  🧠 Currently exploring: Backend, Python, Machine Learning,Verilog
 </p>
 
 <!-- Add Languages and Tools -->
