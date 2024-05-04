@@ -71,7 +71,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
- <h2 align="center">Github Stats</h2>
+ <h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
