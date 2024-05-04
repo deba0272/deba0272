@@ -1,6 +1,6 @@
-<h1 align="center">
+<align="center">
 ![bert](https://github.com/deba0272/deba0272/assets/95994802/9119f520-f6f3-4704-90f9-54df6510fcb3)
-</h1>
+</>
 
 <h1 align="center">Hi there, I'm Debajyoti Roy! 👋</h1>
 
