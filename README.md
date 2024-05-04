@@ -1,8 +1,9 @@
+![quka](https://github.com/deba0272/deba0272/assets/95994802/325a0b47-916b-4d86-949b-72d9c9ef791f)
 <h1 align="center">Hi there, I'm Debajyoti Roy! 👋</h1>
 
 <!-- Add Introduction -->
 <p align="center">
-  I'm a Developer and Researcher, passionate about exploring the intersections of technology and science, and always eager to learn new things.
+  I'm a Developer and Researcher, passionate about exploring the intersections of technology and science, and always eager to learn new things.I enjoy learning about new technologies and reading a lot of research papers.
 </p>
 
 <!-- Add Interests -->
