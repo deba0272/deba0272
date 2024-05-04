@@ -54,7 +54,7 @@
   <b>Description:</b> Led a team in the development of a cost-effective landslide detection system using ArduinoIDE.
 </p>
 
-### Languages and Tools
+<h2 align="center">Languages and Tools</h2>
 
 <p>
  
