@@ -20,7 +20,7 @@
 
 <!-- Add Tools and Frameworks -->
 <p align="center">
-  <b>Tools and Frameworks:</b> Xilinx Vivado, Express.js, Proteus, LabView, CST Microwave Studio Suite, Proteus, Matlab
+  <b>Tools and Frameworks:</b> Xilinx Vivado, Proteus, LabView, CST Microwave Studio Suite, Virtual Studio Code, Matlab, Arduino
 </p>
 
 <!-- Add Repositories -->
