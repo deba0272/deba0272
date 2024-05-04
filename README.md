@@ -71,9 +71,11 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
- 
- 
- -----
+ <h2 align="center">Github Stats</h2>
+
+<div align="center">
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deba0272&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
+</div>
 <!-- Add Visitors Count -->
 <h2 align="center">Visitors Count</h2>
 <p align="center">
