@@ -73,9 +73,8 @@
 
  <h2 align="center">Github Stats</h2>
 
-<div align="center">
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deba0272&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=deba0272&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
+
 <!-- Add Visitors Count -->
 <h2 align="center">Visitors Count</h2>
 <p align="center">
