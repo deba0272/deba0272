@@ -1,62 +1,57 @@
 <!-- Add GitHub Profile Picture -->
-### Hi there, I'm Debajyoti Roy! 👋
+<h1 align="center">Greetings! I'm Debajyoti Roy. 👋</h1>
 <p align="center">
-  <img src="https://github.com/deba0272/deba0272/assets/95994802/9119f520-f6f3-4704-90f9-54df6510fcb3" alt="GitHub Profile Picture" style="display: block; margin: auto;">
+  <img src="https://github.com/deba0272/deba0272/assets/95994802/9119f520-f6f3-4704-90f9-54df6510fcb3" alt="GitHub Profile Picture" style="border-radius: 50%;">
 </p>
-
 
 <!-- Add Introduction -->
 <p align="center">
-  I'm a Developer and Researcher, passionate about exploring the intersections of technology and science, and always eager to learn new things.I enjoy learning about new technologies and reading a lot of research papers.
+  I'm a seasoned Developer and avid Researcher, driven by an insatiable curiosity to explore the intricate blend of technology and science. My journey is fueled by a relentless pursuit of knowledge and a genuine passion for innovation. I derive great joy from delving into cutting-edge technologies and immersing myself in the profound insights offered by research papers.
 </p>
 
 <!-- Add Interests -->
 <p align="center">
-  🧠 Currently exploring: Backend, Python, Machine Learning,Verilog
+  🧠 Currently immersed in: Backend Development, Python, Machine Learning, and Verilog.
 </p>
 
 <!-- Add Languages and Tools -->
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">Proficiencies</h2>
 
 <!-- Add Programming Languages -->
 <p align="center">
-  <b>Programming Languages:</b> C++, Verilog, Matlab, JavaScript, Basic Python, MySQL, MongoDB, HTML, CSS, Node.js
+  <b>Programming Languages:</b> C++, Verilog, Matlab, JavaScript, Python, MySQL, MongoDB, HTML, CSS, Node.js
 </p>
 
 <!-- Add Tools and Frameworks -->
 <p align="center">
-  <b>Tools and Frameworks:</b> Xilinx Vivado, Proteus, LabView, CST Microwave Studio Suite, Virtual Studio Code, Matlab, Arduino
+  <b>Tools and Frameworks:</b> Xilinx Vivado, Proteus, LabView, CST Microwave Studio Suite, Visual Studio Code, Matlab, Arduino
 </p>
 
 <!-- Add Repositories -->
-<h2 align="center">My Repositories</h2>
+<h2 align="center">Highlighted Projects</h2>
 
 <!-- Add Internship-at-Teachnook -->
 <p align="center">
   <a href="https://github.com/deba0272/Internship-at-Teachnook"><b>Internship-at-Teachnook</b></a><br>
-  <b>Description:</b> Digital Marketing Website<br>
-  <b>Language Used:</b> Express.js, Node.js, PostgreSQL, React
+  <b>Description:</b> Developed a dynamic Digital Marketing Website using Express.js, Node.js, PostgreSQL, and React.
 </p>
 
 <!-- Add Url_Shortener-Stateful -->
 <p align="center">
   <a href="https://github.com/deba0272/Url_Shortener-Stateful"><b>Url_Shortener-Stateful</b></a><br>
-  <b>Description:</b> A stateful URL shortener application.<br>
-  <b>Language Used:</b> Express.js, Node.js, ejs, MongoDB
+  <b>Description:</b> Engineered a stateful URL shortener application utilizing Express.js, Node.js, ejs, and MongoDB.
 </p>
 
 <!-- Add Winter-Internship-at-IIT-Jammu -->
 <p align="center">
   <a href="https://github.com/deba0272/Winter-Internship-at-IIT-Jammu"><b>Winter-Internship-at-IIT-Jammu</b></a><br>
-  <b>Description:</b> Software implementation and simulation files for wideband metasurface-based reflective polarization converter.<br>
-  <b>Language Used:</b> CST Microwave Studio, MATLAB
+  <b>Description:</b> Spearheaded the software implementation and simulation for a wideband metasurface-based reflective polarization converter using CST Microwave Studio and MATLAB.
 </p>
 
 <!-- Add Landslide-Detection-and-Early-System -->
 <p align="center">
   <a href="https://github.com/deba0272/Landslide-Detection-and-Early-System"><b>Landslide-Detection-and-Early-System</b></a><br>
-  <b>Description:</b> Cost-effective landslide detection system project.<br>
-  <b>Language Used:</b> ArduinoIDE
+  <b>Description:</b> Led a team in the development of a cost-effective landslide detection system using ArduinoIDE.
 </p>
 
 <!-- Add Visitors Count -->
@@ -70,13 +65,13 @@
 
 <!-- Add LinkedIn -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/debajyoti-roy-a1a7bb230/"><b>LinkedIn</b></a><br>
+  <a href="https://www.linkedin.com/in/debajyoti-roy-a1a7bb230/"><b>LinkedIn Profile</b></a><br>
   <i>linkedin.com/in/debajyoti-roy</i>
 </p>
 
 <!-- Add LeetCode -->
 <p align="center">
-  <a href="https://leetcode.com/zen0272/"><b>Leetcode</b></a><br>
+  <a href="https://leetcode.com/zen0272/"><b>LeetCode Profile</b></a><br>
   <i>leetcode.com/zen0272/</i>
 </p>
 
