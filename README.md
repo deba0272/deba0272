@@ -1,4 +1,7 @@
-![quka](https://github.com/deba0272/deba0272/assets/95994802/325a0b47-916b-4d86-949b-72d9c9ef791f)
+
+![bert](https://github.com/deba0272/deba0272/assets/95994802/9119f520-f6f3-4704-90f9-54df6510fcb3)
+![quka](https://github.com/deba0272/deba0272/assets/95994802/5e5ac855-7fdd-4727-bf6d-9ba8582b5511)
+
 <h1 align="center">Hi there, I'm Debajyoti Roy! 👋</h1>
 
 <!-- Add Introduction -->
