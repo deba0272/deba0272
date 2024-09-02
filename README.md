@@ -12,6 +12,7 @@
 <!-- Add Interests -->
 <p align="center">
   🧠 Currently immersed in: Backend Development, Python, Machine Learning, and Verilog.
+    Currently diving into RISC-V implementation.
 </p>
 
 <!-- Add Languages and Tools -->
