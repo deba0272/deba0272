@@ -83,8 +83,9 @@
 <!-- Add Visitors Count -->
 <h2 align="center">Visitors Count</h2>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/deba0272/count.svg" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=deba0272&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 
 <!-- Add Get in Touch -->
 <h2 align="center">Get in Touch</h2>
